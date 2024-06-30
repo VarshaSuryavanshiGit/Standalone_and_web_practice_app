@@ -10,7 +10,7 @@
 <body>
     <div>
         <h1>Jenkins Assignments -L4</h1>
-        <p>Welcome to the demo of Jenkins assignments </p>
+        <p>Welcome to the demo of Wekhook assignments </p>
         <p>Varsha</p>
     </div>
 </body>
